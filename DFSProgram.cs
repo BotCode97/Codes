@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DepthFirstSearchExample
 {
-    class Program
+    class DFSProgram
     {
         static int[,] x = { { 0, 1, 1, 0, 0, 0, 0 }, { 1, 0, 1, 0, 1, 0, 0 }, { 1, 1, 0, 1, 0, 0, 0 }, { 0, 0, 1, 0, 0, 1, 0 }, { 0, 1, 0, 0, 0, 0, 1 }, { 0, 0, 0, 1, 0, 0, 0 }, { 0, 0, 0, 0, 1, 0, 0 } };
         static String[] y = { "S", "A", "B", "C", "D", "E", "G" };
