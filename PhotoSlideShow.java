@@ -124,7 +124,7 @@ class PhotoSlideShow{
                 i=i+1;
                 count++;
               }else{}
-                  //neglect
+                  //Neglect
             }else if(a[i].equals("H")){
                 Total.add(H.get(count));
                 count_h++;
